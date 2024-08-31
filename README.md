@@ -20,3 +20,12 @@
   <img src="https://img.icons8.com/color/48/000000/bash.png" width="30" height="30" alt="Bash">
   <img src="https://img.icons8.com/color/48/000000/python.png" width="30" height="30" alt="Python">
 </p>
+
+## 🚀 Projects
+Below are some of my key projects:
+- [AWS-Ansible-HAProxy-Automation](https://github.com/nehalpatodiya/ansible): 
+Automated AWS EC2 provisioning and Apache setup using Ansible, while configuring HAProxy for optimized load balancing and high availability. Implemented best practices like dynamic inventory, vault encryption, and least privilege access for secure and scalable management.
+- [Infrastructure as Code: AWS Deployment with Terraform and Ansible](https://github.com/nehalpatodiya/ansible): Developed a scalable, secure AWS infrastructure using Terraform and Ansible, featuring high-availability web applications with VPC, EC2 instances, and dynamic scaling via ASG. Implemented event-driven automation with EventBridge, integrated load balancing with ALB, and ensured secure access with IAM roles and instance profiles.
+
+## 🌱 Currently Learning
+I’m enthusiastic about learning new technologies and enhancing my expertise. Currently, my focus is on:
