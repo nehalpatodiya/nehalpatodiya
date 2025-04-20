@@ -1,8 +1,8 @@
-![Alt text](https://github.com/user-attachments/assets/4d60034f-32f7-4b4f-b985-1c31bc856dec)<br><br>
+![Alt text](https://github.com/user-attachments/assets/8f65d458-30c3-4f22-b48e-9770a52dd600)<br><br>
 
 3+ years of experience in Cloud and DevOps, encompassing tasks such as analysis, design, coding, scripting, testing, automation, version control, documentation, and support.
 ## 🔧 Tech Stack
-<p>
+
   <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="30" height="30"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/dusk/64/000000/docker.png" width="30" height="30"/>
